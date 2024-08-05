@@ -10,8 +10,12 @@ The Pandas `pipe` method is a powerful tool that allows users to chain multiple 
 
 In short, Pandas `pipe` method:
 
-  1.Enhances Code Readability /n
+  1.Enhances Code Readability 
+  
   2.Enables Function Chaining 
+  
   3.Accommodates Custom Functions
+  
   4.Improves Code Organization
+  
   5.Efficient for Complex Transformations
