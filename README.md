@@ -22,5 +22,5 @@ In short, Pandas `pipe` method:
 
 Here is the code example of the pandas pipe function. We have applied `clean` and `analysis` Python functions to the Pandas DataFrame. The pipe method will first clean the data, perform data analysis, and return the output.
 
-You can get more data from 'https://www.kdnuggets.com/building-data-science-pipelines-using-pandas'
+You can get more information from 'https://www.kdnuggets.com/building-data-science-pipelines-using-pandas'
 
